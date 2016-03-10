@@ -1,3 +1,5 @@
+# MOVED TO https://github.com/NREL/docker-openstudio
+
 # OpenStudio
 
 Container for OpenStudio along with Ruby 2.0, Bundler, build-essentials and various development libraries for gem support.
